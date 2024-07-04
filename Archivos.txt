@@ -1,0 +1,12 @@
+257.4	2
+6
+Empresa	CCSS	4000042147	ayudapat@ccss.sa.cr	400	GAM	Costa Rica(local)	0
+Empresa	UNA	4000042150	una@est.una.ac.cr	400	GAM	Costa Rica(local)	0
+Empresa	Apple	942404110	apple@icloud.com	400	California	EEUU	0
+Persona	Anthony	208540298	Anthony@gmail.com	Costa Rica(local)	GAM	200	Costarricense
+Persona	Manuel	119150694	Manuel@gmail.com	Costa Rica(local)	GAM	200	Costarricense
+Persona	Felipe	118510810	Felipe@gmail.com	Costa Rica(local)	GAM	200	Costarricense
+1
+9	16.2	UnidadCD	3	3	3	3	Amplificador	1	1	1	1	Parlante	8	8	8	8	5
+1
+ClienteEnLinea	010	Persona	Anthony	208540298	Anthony@gmail.com	Costa Rica(local)	GAM	200	Costarricense	9	16.2	UnidadCD	3	3	3	3	Amplificador	1	1	1	1	Parlante	8	8	8	8	5
